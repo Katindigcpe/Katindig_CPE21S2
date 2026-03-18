@@ -2,7 +2,9 @@
 <!--               CUSTOM SILVER ASCII BANNER              -->
 <!-- ===================================================== -->
 
-<pre align="center" style="font-size:16px; color:silver;">
+<div align="center">
+
+<pre style="font-size:16px; color:silver; line-height: 1;">
  ::::::::  :::::::::  ::::::::::       :::::::   :::::::   ::::::::      :::     
 :+:    :+: :+:    :+: :+:             :+:   :+: :+:   :+: :+:    :+:   :+: :+:   
 +:+        +:+    +:+ +:+             +:+  :+:+ +:+  :+:+ +:+    +:+  +:+   +:+  
