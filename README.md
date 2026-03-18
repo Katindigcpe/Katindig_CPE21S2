@@ -4,18 +4,6 @@
 
 <div align="center">
 
-<pre style="font-size:16px; color:silver; line-height: 1;">
- ::::::::  :::::::::  ::::::::::       :::::::   :::::::   ::::::::      :::     
-:+:    :+: :+:    :+: :+:             :+:   :+: :+:   :+: :+:    :+:   :+: :+:   
-+:+        +:+    +:+ +:+             +:+  :+:+ +:+  :+:+ +:+    +:+  +:+   +:+  
-+#+        +#++:++#+  +#++:++#        +#+ + +:+ +#+ + +:+  +#++:++#+ +#++:++#++: 
-+#+        +#+        +#+             +#+#  +#+ +#+#  +#+        +#+ +#+     +#+ 
-#+#    #+# #+#        #+#             #+#   #+# #+#   #+# #+#    #+# #+#     #+# 
- ########  ###        ##########       #######   #######   ########  ###     ### 
-</pre>
-
-<div align="center">
-
 <img src="https://usagif.com/wp-content/uploads/gifs/fire-102.gif" width="100%" height="100px" style="object-fit: cover;">
 
 <pre style="font-size:16px; color:#FF4500; margin-top: -50px; position: relative;">
