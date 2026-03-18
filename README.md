@@ -15,7 +15,7 @@
 </pre>
 
 
-<table background=https://usagif.com/wp-content/uploads/gifs/fire-102.gif>
+<table background=[https://usagif.com/wp-content/uploads/gifs/fire-102.gif](https://usagif.com/wp-content/uploads/gifs/fire-102.gif)>
   <tr>
     <td>
       <div align="center">
