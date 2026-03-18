@@ -34,31 +34,6 @@
 
 ## ⚙️ Languages & Skills
 <p align="center">
-  <!-- Languages -->
-  <img src="file:///C:/Users/TIPQC/Downloads/c-plus-plus-logo.svg" width="90" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" style="margin:10px"/>
-  <!-- Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="90" style="margin:10px"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="90" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/blender.svg" width="90" style="margin:10px"/>
-  <img src="[https://freebiesupply.com/logos/premiere-pro-cc-logo](https://cdn.freebiesupply.com/logos/large/2x/premiere-cc-logo-black-and-white)"/>
-</p>
-
-
-<p align="center"> <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="90" style="margin:10px"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="90" style="margin:10px"/> <br> <!-- Skills -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="90" style="margin:10px"/><br> <b>Photoshop (PS)</b><br><br>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="90" style="margin:10px"/><br> <b>Illustrator (AI)</b><br><br> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="90" style="margin:10px"/><br> <b>After Effects (AE)</b><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="90" style="margin:10px"/><br> <b>Premiere Pro (PR)</b><br><br> 
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/blender.svg" width="90" style="margin:10px"/><br> <b>Blender</b> 
-</p>
----
-
-<h2 align="center">⚙️ Languages & Skills</h2>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" style="margin: 15px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" style="margin: 15px;"/>
 </p>
