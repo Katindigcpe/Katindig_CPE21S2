@@ -14,17 +14,19 @@
  ########  ###        ##########       #######   #######   ########  ###     ### 
 </pre>
 
+<div align="center">
 
-<table background=[https://usagif.com/wp-content/uploads/gifs/fire-102.gif](https://usagif.com/wp-content/uploads/gifs/fire-102.gif)>
-  <tr>
-    <td>
-      <div align="center">
-        <pre style="font-size:16px; color:white; background:transparent;">
-          </pre>
-      </div>
-    </td>
-  </tr>
-</table>
+<img src="https://usagif.com/wp-content/uploads/gifs/fire-102.gif" width="100%" height="100px" style="object-fit: cover;">
+
+<pre style="font-size:16px; color:#FF4500; margin-top: -50px; position: relative;">
+ ::::::::  :::::::::  ::::::::::       :::::::   :::::::   ::::::::      :::     
+:+:    :+: :+:    :+: :+:             :+:   :+: :+:   :+: :+:    :+:   :+: :+:   
++:+        +:+    +:+ +:+             +:+  :+:+ +:+  :+:+ +:+    +:+  +:+   +:+  
++#+        +#++:++#+  +#++:++#        +#+ + +:+ +#+ + +:+  +#++:++#+ +#++:++#++: 
++#+        +#+        +#+             +#+#  +#+ +#+#  +#+        +#+ +#+     +#+ 
+#+#    #+# #+#        #+#             #+#   #+# #+#   #+# #+#    #+# #+#     #+# 
+ ########  ###        ##########       #######   #######   ########  ###     ### 
+</pre>
 
 <h1 align="center" style="color:white;">Hello, I'm <strong>Jiro Luis A. Katindig</strong> 👋</h1>
 <h3 align="center" style="color:gray;">1st Year CPE Student • TIP QC</h3>
