@@ -56,6 +56,21 @@
 </p>
 ---
 
+<h2 align="center">⚙️ Languages & Skills</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" style="margin: 15px;"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60" alt="Photoshop" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60" alt="Illustrator" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" width="60" alt="After Effects" style="margin: 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" width="60" alt="Premiere Pro" style="margin: 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" width="60" alt="Blender" style="margin: 15px;"/>
+</p>
+
 ## 🎓 Education
 - **Technological Institute of the Philippines – Quezon City**  
   _1st Year Computer Engineering (CPE) Student_
