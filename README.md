@@ -15,6 +15,16 @@
 </pre>
 
 
+<table background=https://usagif.com/wp-content/uploads/gifs/fire-102.gif>
+  <tr>
+    <td>
+      <div align="center">
+        <pre style="font-size:16px; color:white; background:transparent;">
+          </pre>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center" style="color:white;">Hello, I'm <strong>Jiro Luis A. Katindig</strong> 👋</h1>
 <h3 align="center" style="color:gray;">1st Year CPE Student • TIP QC</h3>
