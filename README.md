@@ -50,7 +50,7 @@
 
 ## 🎓 Education
 - **Technological Institute of the Philippines – Quezon City**  
-  _1st Year Computer Engineering (CPE) Student_
+  _2nd Year Computer Engineering (CPE) Student_
 
 ---
 
@@ -78,9 +78,9 @@
 - 🎧 Music  
 - 🎨 Digital art & design  
 - 🧩 Solving programming problems  
-- 🌀 3D Modeling with Blender  
+- 🌀 3D Animating with Blender  
 
 ---
 
 ### 🖤 Signature Quote
-<p align="center"><i>"Precision. Clarity. Progress."</i></p>
+<p align="center"><i>"You may not have found the reason to stay, but you find a reason to come back."</i></p>
