@@ -18,7 +18,7 @@
 </pre>
 
 <h1 align="center" style="color:white;">Hello, I'm <strong>Jiro Luis A. Katindig</strong> 👋</h1>
-<h3 align="center" style="color:gray;">1st Year CPE Student • TIP QC</h3>
+<h3 align="center" style="color:gray;">2nd Year CPE Student • TIP QC</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=katindigcpe&label=Profile%20Views&color=gray&style=for-the-badge"/>
